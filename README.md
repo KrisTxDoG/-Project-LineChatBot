@@ -1,6 +1,6 @@
 # MySpringBootApp
 
-一個簡單的 Spring Boot 範例專案，用來示範 REST API 開發。
+一個簡單的 Spring Boot 範例專案，用來示範透過 webhook 來串接 line bot, 可以接收訊息傳遞者的資訊。
 
 ## 功能
 - 提供 CRUD API 範例
