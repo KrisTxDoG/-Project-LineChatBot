@@ -43,3 +43,9 @@ src/main/resources/application.yml
 src/main/resources/application-*.yml
 src/main/resources/application-*.properties
 
+# IntelliJ IDEA
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
